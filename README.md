@@ -1,6 +1,6 @@
 # Guardião dos Cristais
 
-Projeto acadêmico de plataforma 2D feito na Unity para a disciplina de Game Development da UNIFECAF.
+Projeto acadêmico de plataforma 2D feito na Unity para a disciplina de Game Development da UNIFECAF
 
 ## Descrição
 
