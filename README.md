@@ -82,14 +82,6 @@ Assets/
 - Collider2D
 - Unity UI
 
-## Aluno
-
-Kaiob
-
-## Disciplina
-
-Game Development 
-
 ## Assets usados
 
 O projeto usa sprites, efeitos sonoros e músicas gratuitos da Kenney, baixados de OpenGameArt e Kenney.nl. Os arquivos originais ficam em `Assets/_Project/ExternalAssets`.
